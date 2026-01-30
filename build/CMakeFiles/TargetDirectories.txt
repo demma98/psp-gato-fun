@@ -1,0 +1,3 @@
+/home/demma/Documents/code/psp/260129gato-fun/build/CMakeFiles/gato-fun.dir
+/home/demma/Documents/code/psp/260129gato-fun/build/CMakeFiles/edit_cache.dir
+/home/demma/Documents/code/psp/260129gato-fun/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/home/demma/.local/bin/pspdev/bin/psp-gcc -I/home/demma/.local/bin/pspdev/psp/include -I/home/demma/.local/bin/pspdev/psp/sdk/include -DPSP -L/home/demma/.local/bin/pspdev/lib -L/home/demma/.local/bin/pspdev/psp/lib -L/home/demma/.local/bin/pspdev/psp/sdk/lib -Wl,-zmax-page-size=128 "CMakeFiles/gato-fun.dir/main.c.obj" -o gato-fun  -lpspdebug -lpspdisplay -lpspge -lpspctrl 
